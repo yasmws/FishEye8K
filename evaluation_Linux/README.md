@@ -2,6 +2,4 @@
 
 Update:
 
-`2024/03/18`: Change the bug in calculating f1 score.
-
-
+`2024/03/18`: Change the bug in calculating f1 score

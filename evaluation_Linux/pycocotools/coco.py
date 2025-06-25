@@ -58,6 +58,7 @@ if PYTHON_VERSION == 2:
     from urllib import urlretrieve
 elif PYTHON_VERSION == 3:
     from urllib.request import urlretrieve
+    unicode = str
 
 
 def _isArrayLike(obj):
